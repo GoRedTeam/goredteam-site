@@ -27,9 +27,12 @@ footer:
     weight: 4
 
 bottom:
-  - name: "RSS"
-    url: /index.html
-    weight: 1
   - name: "Privacy Policy"
     url: /privacy-policy
+    weight: 1
+  - name: "Terms of Service"
+    url: /terms-of-service
     weight: 2
+  - name: "RSS"
+    url: /index.html
+    weight: 3

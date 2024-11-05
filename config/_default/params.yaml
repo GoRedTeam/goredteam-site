@@ -1,15 +1,19 @@
 description: ""
 copyright: "Go Red Team"
 
+# Enable/disable featured images
+featuredImages: true
+
 hero:
-  video: ""
-  title: ""
-  subtitle: ""
+  video: "/videos/hero-background.mp4"
+  title: "Go Red Team"
+  subtitle: "Your Trusted Partner in Cybersecurity"
 
 contactData:
-  email: ""
-  phone: ""
-  address1: ""
-  address2: ""
-  city: ""
-  state: ""
+  email: "info@goredteam.net"
+  phone: "(800) 123-4567"
+  address1: "123 Main St"
+  address2: "Suite 123"
+  city: "Richardson"
+  state: "TX"
+  zip: "75082"

@@ -1,5 +1,6 @@
 hugoVersion:
   extended: true
 
-# imports:
+imports:
+  - path: github.com/GoRedTeam/goredteam-content
 

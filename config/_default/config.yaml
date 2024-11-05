@@ -1,7 +1,7 @@
 title: "Go Red Team"
 languageCode: "en-us"
 timeZone: "America/Chicago"
-#theme: "goredteam-live"
+theme: "goredteam-live"
 
 permalinks:
   posts: /posts/:year/:month/:day/:slug/
