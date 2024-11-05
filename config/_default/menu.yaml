@@ -1,0 +1,35 @@
+main:
+  - name: "Posts"
+    url: /posts/
+    weight: 1
+  - name: "Podcasts"
+    url: /podcasts/
+    weight: 2
+  - name: "About"
+    url: /about
+    weight: 3
+  - name: "Shop"
+    url: "https://shop.goredteam.net"
+    weight: 4
+
+footer:
+  - name: "Posts"
+    url: /posts/
+    weight: 1
+  - name: "Podcasts"
+    url: /podcasts/
+    weight: 2
+  - name: "About"
+    url: /about
+    weight: 3
+  - name: "Shop"
+    url: "https://shop.goredteam.net/"
+    weight: 4
+
+bottom:
+  - name: "RSS"
+    url: /index.html
+    weight: 1
+  - name: "Privacy Policy"
+    url: /privacy-policy
+    weight: 2

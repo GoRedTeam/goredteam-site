@@ -1,0 +1,17 @@
+title: "Go Red Team"
+languageCode: "en-us"
+timeZone: "America/Chicago"
+#theme: "goredteam-live"
+
+permalinks:
+  posts: /posts/:year/:month/:day/:slug/
+  tags: /tags/:slug/
+  category: /categories/:slug/
+  author: /authors/:slug/
+  page: /:slug/
+  podcasts: /podcast/:slug/
+
+outputs:
+  home: ["HTML", "RSS"]
+  section: ["HTML", "RSS"]
+  taxonomy: ["HTML", "RSS"]
