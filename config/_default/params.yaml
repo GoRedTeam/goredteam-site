@@ -11,9 +11,9 @@ hero:
 
 contactData:
   email: "info@goredteam.net"
-  phone: "(800) 123-4567"
-  address1: "123 Main St"
-  address2: "Suite 123"
-  city: "Richardson"
-  state: "TX"
-  zip: "75082"
+  phone: ""
+  address1: ""
+  address2: ""
+  city: ""
+  state: ""
+  zip: ""
